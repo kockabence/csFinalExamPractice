@@ -1,0 +1,6 @@
+c:\users\bence\documents\visual studio 2015\Projects\jaror\jaror\bin\Debug\jaror.exe.config
+c:\users\bence\documents\visual studio 2015\Projects\jaror\jaror\bin\Debug\jaror.exe
+c:\users\bence\documents\visual studio 2015\Projects\jaror\jaror\bin\Debug\jaror.pdb
+c:\users\bence\documents\visual studio 2015\Projects\jaror\jaror\obj\Debug\jaror.csprojResolveAssemblyReference.cache
+c:\users\bence\documents\visual studio 2015\Projects\jaror\jaror\obj\Debug\jaror.exe
+c:\users\bence\documents\visual studio 2015\Projects\jaror\jaror\obj\Debug\jaror.pdb

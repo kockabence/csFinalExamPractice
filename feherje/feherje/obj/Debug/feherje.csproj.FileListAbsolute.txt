@@ -1,0 +1,6 @@
+c:\users\bence\documents\visual studio 2015\Projects\feherje\feherje\bin\Debug\feherje.exe.config
+c:\users\bence\documents\visual studio 2015\Projects\feherje\feherje\bin\Debug\feherje.exe
+c:\users\bence\documents\visual studio 2015\Projects\feherje\feherje\bin\Debug\feherje.pdb
+c:\users\bence\documents\visual studio 2015\Projects\feherje\feherje\obj\Debug\feherje.csprojResolveAssemblyReference.cache
+c:\users\bence\documents\visual studio 2015\Projects\feherje\feherje\obj\Debug\feherje.exe
+c:\users\bence\documents\visual studio 2015\Projects\feherje\feherje\obj\Debug\feherje.pdb

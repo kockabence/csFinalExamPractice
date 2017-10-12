@@ -1,0 +1,6 @@
+c:\users\bence\documents\visual studio 2015\Projects\fejvagyiras\fejvagyiras\bin\Debug\fejvagyiras.exe.config
+c:\users\bence\documents\visual studio 2015\Projects\fejvagyiras\fejvagyiras\bin\Debug\fejvagyiras.exe
+c:\users\bence\documents\visual studio 2015\Projects\fejvagyiras\fejvagyiras\bin\Debug\fejvagyiras.pdb
+c:\users\bence\documents\visual studio 2015\Projects\fejvagyiras\fejvagyiras\obj\Debug\fejvagyiras.csprojResolveAssemblyReference.cache
+c:\users\bence\documents\visual studio 2015\Projects\fejvagyiras\fejvagyiras\obj\Debug\fejvagyiras.exe
+c:\users\bence\documents\visual studio 2015\Projects\fejvagyiras\fejvagyiras\obj\Debug\fejvagyiras.pdb

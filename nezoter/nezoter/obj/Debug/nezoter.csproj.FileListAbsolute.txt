@@ -1,0 +1,6 @@
+c:\users\bence\documents\visual studio 2015\Projects\nezoter\nezoter\bin\Debug\nezoter.exe.config
+c:\users\bence\documents\visual studio 2015\Projects\nezoter\nezoter\bin\Debug\nezoter.exe
+c:\users\bence\documents\visual studio 2015\Projects\nezoter\nezoter\bin\Debug\nezoter.pdb
+c:\users\bence\documents\visual studio 2015\Projects\nezoter\nezoter\obj\Debug\nezoter.csprojResolveAssemblyReference.cache
+c:\users\bence\documents\visual studio 2015\Projects\nezoter\nezoter\obj\Debug\nezoter.exe
+c:\users\bence\documents\visual studio 2015\Projects\nezoter\nezoter\obj\Debug\nezoter.pdb

@@ -1,0 +1,6 @@
+c:\users\bence\documents\visual studio 2015\Projects\cimek\cimek\bin\Debug\cimek.exe.config
+c:\users\bence\documents\visual studio 2015\Projects\cimek\cimek\bin\Debug\cimek.exe
+c:\users\bence\documents\visual studio 2015\Projects\cimek\cimek\bin\Debug\cimek.pdb
+c:\users\bence\documents\visual studio 2015\Projects\cimek\cimek\obj\Debug\cimek.csprojResolveAssemblyReference.cache
+c:\users\bence\documents\visual studio 2015\Projects\cimek\cimek\obj\Debug\cimek.exe
+c:\users\bence\documents\visual studio 2015\Projects\cimek\cimek\obj\Debug\cimek.pdb
