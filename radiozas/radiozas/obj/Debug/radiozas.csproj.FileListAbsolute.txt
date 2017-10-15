@@ -1,0 +1,6 @@
+C:\Users\Bence\documents\visual studio 2017\Projects\radiozas\radiozas\bin\Debug\radiozas.exe.config
+C:\Users\Bence\documents\visual studio 2017\Projects\radiozas\radiozas\bin\Debug\radiozas.exe
+C:\Users\Bence\documents\visual studio 2017\Projects\radiozas\radiozas\bin\Debug\radiozas.pdb
+C:\Users\Bence\documents\visual studio 2017\Projects\radiozas\radiozas\obj\Debug\radiozas.csprojResolveAssemblyReference.cache
+C:\Users\Bence\documents\visual studio 2017\Projects\radiozas\radiozas\obj\Debug\radiozas.exe
+C:\Users\Bence\documents\visual studio 2017\Projects\radiozas\radiozas\obj\Debug\radiozas.pdb

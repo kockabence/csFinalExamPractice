@@ -1,0 +1,6 @@
+c:\users\bence\documents\visual studio 2017\Projects\2005ősz\2005ősz\obj\Debug\2005ősz.csprojResolveAssemblyReference.cache
+c:\users\bence\documents\visual studio 2017\Projects\2005ősz\2005ősz\bin\Debug\2005ősz.exe.config
+c:\users\bence\documents\visual studio 2017\Projects\2005ősz\2005ősz\bin\Debug\2005ősz.exe
+c:\users\bence\documents\visual studio 2017\Projects\2005ősz\2005ősz\bin\Debug\2005ősz.pdb
+c:\users\bence\documents\visual studio 2017\Projects\2005ősz\2005ősz\obj\Debug\2005ősz.exe
+c:\users\bence\documents\visual studio 2017\Projects\2005ősz\2005ősz\obj\Debug\2005ősz.pdb
